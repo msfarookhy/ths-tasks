@@ -1,0 +1,14 @@
+var a=prompt('enter ur age less than 100');
+for (var i =0 ; i <100; i++) {
+    if (age % 2 === 0) {
+        console.log('the age is even' + age);
+
+    } else if{
+        console.log('the age is in odd' + age);
+}  else {
+        conosole.log('age is gretaer than 100');
+
+    }
+
+
+}
